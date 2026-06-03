@@ -1,1 +1,41 @@
-# StrangerRider
+# 👋 Hello World, I'm Kumar Shaurya!
+
+I am a passionate **Computer Science Undergraduate** specializing in **Artificial Intelligence & Machine Learning**. I love building full-stack applications, optimizing logic, and exploring how backend systems interact with secure data.
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 [Zerodha Clone](https://zerodha-dashboard-j9me.vercel.app/)
+* A full-stack financial trading dashboard replica focused on modern UI/UX and real-time data flow using the MERN Stack.
+* **Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB.
+
+### 🔐 [PromptVault](https://github.com/StrangerRider/prompt-vault)
+* A secure, dynamic platform for AI prompt engineering guides. Features restricted full-page content access via customized reader authentication and a hidden, passcode-secured admin writing portal.
+* **Tech Stack:** React (Vite), Node.js, Express, Mongoose, MongoDB.
+
+---
+
+## 🧠 Technical Skills
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Vite, Tailwind CSS, JavaScript (ES6+), HTML5 / CSS3 |
+| **Backend & DB** | Node.js, Express.js, MongoDB, Mongoose |
+| **Languages & Core** | Java, Object-Oriented Programming (OOP), Data Structures & Algorithms |
+| **AI & ML Focus** | Foundations of Machine Learning, Prompt Engineering Design |
+| **Tools** | Git, GitHub, VS Code, Postman |
+
+---
+
+## ⚡ Beyond the Code
+* 🎓 Pursuing my B.Tech degree with a heavy focus on technical assessment optimization and performance tuning.
+* 🛠️ Fan of keeping architectures minimalist—focusing on writing clean code with zero unnecessary package bloat.
+* 💬 Ask me about: Data structures in Java, setting up lightweight authentication, or engineering the perfect AI prompt!
+
+---
+
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication."</i> <br>
+  🛠️ Happy Coding!
+</p>
